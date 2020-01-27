@@ -1,6 +1,8 @@
+#3D Printed Flower Pot  
+
 [Build video](https://www.youtube.com/watch?v=topiOl9TmHY)
 
-
+![image](shortcut.jpg)
 
 XTC-3D coating: [Amazon](https://amzn.to/34OBsQF)  
 Clear PLA filament: [Amazon](https://amzn.to/3aMsUgD)  
