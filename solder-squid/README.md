@@ -1,6 +1,6 @@
-Concrete solder squid made with 3D-printed mold.
+### [Build video](https://www.youtube.com/watch?v=MIIlK7pLdQM)
 
-[Build video](https://www.youtube.com/watch?v=MIIlK7pLdQM)
+![image](solder-squid.jpg)
 
 Aligator clips: [eBay](https://www.ebay.com/itm/10pcs-Single-Prong-Alligator-Clips-With-Teeth-Aligator-Stainless-Steel-Clip-Test/331990813162) or [Amazon](https://amzn.to/2vmKzv2)
 
